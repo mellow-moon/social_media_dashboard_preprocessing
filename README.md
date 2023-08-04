@@ -90,3 +90,5 @@
 ![Ipynb](https://img.shields.io/badge/Python-pandas-blue.svg?style=flat&logo=python&logoColor=white)
 ![Ipynb](https://img.shields.io/badge/Python-numpy-blue.svg?style=flat&logo=python&logoColor=white)
 ![Ipynb](https://img.shields.io/badge/Python-re-blue.svg?style=flat&logo=python&logoColor=white)
+
+![dashboard_instagram](https://github.com/mellow-moon/social_media_dashboard_preprocessing/assets/106676401/114f0dcf-1e6d-4929-bce0-4fa64c9b84b6)
