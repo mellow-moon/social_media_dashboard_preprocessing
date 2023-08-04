@@ -91,4 +91,16 @@
 ![Ipynb](https://img.shields.io/badge/Python-numpy-blue.svg?style=flat&logo=python&logoColor=white)
 ![Ipynb](https://img.shields.io/badge/Python-re-blue.svg?style=flat&logo=python&logoColor=white)
 
+# Визуализации в Power BI
+
+### Instagram
+
 ![dashboard_instagram](https://github.com/mellow-moon/social_media_dashboard_preprocessing/assets/106676401/114f0dcf-1e6d-4929-bce0-4fa64c9b84b6)
+
+### TikTok
+
+![dashboard_tiktok](https://github.com/mellow-moon/social_media_dashboard_preprocessing/assets/106676401/d5211da4-d9e9-4949-b8df-b08ab99c0365)
+
+### YouTube
+
+![dashboard_youtube](https://github.com/mellow-moon/social_media_dashboard_preprocessing/assets/106676401/e5855c24-fbea-4ff3-9a72-3c7b338a4106)
